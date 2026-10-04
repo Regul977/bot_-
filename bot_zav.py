@@ -14,7 +14,7 @@ from aiogram.types import (
 
 # ====== НАСТРОЙКИ ======
 BOT_TOKEN = "ВАШ_ТОКЕН_БОТА"
-ADMIN_ID = 5890881555                   # ваш Telegram ID
+ADMIN_ID = 1281286200                   # ваш Telegram ID
 
 # ====== ЛОГИ ======
 logging.basicConfig(level=logging.INFO)
